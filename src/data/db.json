@@ -1,0 +1,40 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "fname": "abc",
+      "lname": "xyz",
+      "phone": "9898989898"
+    },
+    {
+      "fname": "Rajesh",
+      "lname": "Gole",
+      "phoneNumber": "7878787878",
+      "id": 2
+    },
+    {
+      "fname": "Rajesh",
+      "lname": "",
+      "phoneNumber": "7878787878",
+      "id": 3
+    },
+    {
+      "fname": "rajesh2",
+      "lname": "Gole",
+      "phone": "9898989898",
+      "id": 4
+    },
+    {
+      "fname": "rajesh2",
+      "lname": "Gole",
+      "phone": "989898989",
+      "id": 5
+    },
+    {
+      "fname": "rajesh3",
+      "lname": "Gole",
+      "phoneNumber": "7878787878",
+      "id": 6
+    }
+  ]
+}
