@@ -3,7 +3,7 @@
 
 ## How to run the project ?
 
-### Step-1 : Run the Froentend
+### Step-1 : Run the Frontend
 > `npm start`
 
 ### Step-2 : Run the Backend json-server
